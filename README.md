@@ -17,5 +17,11 @@
 
 <hr>
 
+### Learning:
+* Especialização Lato sensu de Inteligência Artificial e Aprendizado de Máquina da Universidade Nove de Julho
+* Natural language processing
+
+<hr>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelTelesSilva&theme=dracula)
  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTelesSilva&layout=compact&theme=dracula)
