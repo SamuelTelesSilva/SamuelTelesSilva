@@ -1,5 +1,5 @@
 
-### Hi, I'm Samuel
+### Hi, I'm Samuel 😁
 
 <hr>
 
